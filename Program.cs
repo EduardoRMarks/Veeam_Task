@@ -24,11 +24,6 @@ namespace veeam_task
         {
             GetInfoFromUser();
 
-            Console.WriteLine(sourcePath);
-            Console.WriteLine(replicaPath);
-            Console.WriteLine(syncInterval);
-            Console.WriteLine(logFile);
-
             PathHelper.CheckDir(sourcePath);
             PathHelper.CheckDir(replicaPath);
 
