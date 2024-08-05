@@ -1,0 +1,14 @@
+/Users/eduardomarques/veeam_task/bin/Debug/net8.0/veeam_task
+/Users/eduardomarques/veeam_task/bin/Debug/net8.0/veeam_task.deps.json
+/Users/eduardomarques/veeam_task/bin/Debug/net8.0/veeam_task.runtimeconfig.json
+/Users/eduardomarques/veeam_task/bin/Debug/net8.0/veeam_task.dll
+/Users/eduardomarques/veeam_task/bin/Debug/net8.0/veeam_task.pdb
+/Users/eduardomarques/veeam_task/obj/Debug/net8.0/veeam_task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardomarques/veeam_task/obj/Debug/net8.0/veeam_task.AssemblyInfoInputs.cache
+/Users/eduardomarques/veeam_task/obj/Debug/net8.0/veeam_task.AssemblyInfo.cs
+/Users/eduardomarques/veeam_task/obj/Debug/net8.0/veeam_task.csproj.CoreCompileInputs.cache
+/Users/eduardomarques/veeam_task/obj/Debug/net8.0/veeam_task.dll
+/Users/eduardomarques/veeam_task/obj/Debug/net8.0/refint/veeam_task.dll
+/Users/eduardomarques/veeam_task/obj/Debug/net8.0/veeam_task.pdb
+/Users/eduardomarques/veeam_task/obj/Debug/net8.0/veeam_task.genruntimeconfig.cache
+/Users/eduardomarques/veeam_task/obj/Debug/net8.0/ref/veeam_task.dll
